@@ -1,4 +1,7 @@
-#  © 2021 - 2021 Schneider Electric Industries SAS. All rights reserved.
+# Authors: Sylvain MARIE <sylvain.marie@se.com>
+#          + All contributors to <https://github.com/smarie/python-pydocquery>
+#
+# License: 3-clause BSD, <https://github.com/smarie/python-pydocquery/blob/master/LICENSE>
 import re
 from typing import Any, Container, Iterable, Union
 
